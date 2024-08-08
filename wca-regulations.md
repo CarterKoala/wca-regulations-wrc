@@ -39,7 +39,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-1><officials><officials> Article 1: Officials
 
-- 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
+- 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers, scramble checkers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 - 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
     - 1c1) The WCA Delegate must ensure that the competition follows the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
