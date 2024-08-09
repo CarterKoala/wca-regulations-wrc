@@ -410,7 +410,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3b4) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
         - A3b5) The judge stops timing inspection as soon as the competitor lifts their hands and starts the timer (see [Regulation A4d](regulations:regulation:A4d)).
     - A3c) The competitor may pick up the puzzle during inspection.
-        - A3c1) The competitor must not apply moves or intentional changes in alignment during inspection. Penalty: disqualification of the attempt (DNF). Exception: see [Regulation A3c2](regulations:regulation:A3c2) and [Regulation A3c5](regulations:regulation:A3c5).
+        - A3c1) The competitor must not apply moves or intentional changes in alignment during inspection. Penalty: disqualification of the attempt (DNF). Exception: see [Regulation A3c2](regulations:regulation:A3c2) and [Regulation A3c5](regulations:regulation:A3c5). For Clock, the competitor may change the state of the pins during the inspection. These changes are not counted as moves.
         - A3c2) If the parts of the puzzle are not fully aligned when the cover is removed, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
         - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
@@ -528,15 +528,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
 - E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
 - E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-F><clock><clocksolving> Article F: Clock Solving
-
-- F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
-- F3) The competitor may change the state of the pins during the inspection. These changes are not counted as moves.
-- F4) The competitor must not change the state of any inner clock faces in the puzzle during the inspection. Penalty: disqualification of the attempt (DNF).
-
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 

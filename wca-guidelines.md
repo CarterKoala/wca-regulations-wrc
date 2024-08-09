@@ -237,11 +237,6 @@ To be more informative, each Guideline is classified using one of the following 
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
 
 
-## <article-F><clock><clocksolving> Article F: Clock Solving
-
-- F1+) [REMINDER] In the past, the competitor had to place the puzzle onto the mat in a standing position. This is no longer required.
-
-
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 
 - H1+) [ADDITION] If a puzzle with a duplicate scramble is found during an attempt, the puzzle may be re-scrambled using a different scramble sequence, at the discretion of the WCA Delegate.
