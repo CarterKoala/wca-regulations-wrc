@@ -233,6 +233,7 @@ To be more informative, each Guideline is classified using one of the following 
 - E2c4+) [EXAMPLE] Examples of interpreting symbols or combinations of symbols that are not defined in [Regulation 12a](regulations:regulation:12a): [x] should be interpret as x. (R * U', * = F2) should be interpreted as R U' F2. (R U)' should be interpreted as R U'. R++ should be interpreted as R. R3' is not permitted.
 - E2c4++) [ADDITION] Moves such as R2' should be interpreted as R2, whereas otherwise they would have resulted in a disqualification of the attempt (DNF).
 - E2c5+) [EXAMPLE] Y should be interpreted as y. UW, uw, and uW should be interpreted as Uw. r should be interpreted as R, not Rw.
+- E2c7+) [ADDITION] Competitors must not intentionally make their solution harder to judge with excessive use of illegal symbols, incorrect capitalization, or by other means, at the discretion of the WCA Delegate. Penalty: disqualification of the attempt (DNF)
 - E2e+) [CLARIFICATION] Competitors must not derive solutions from any part of the scramble sequence, and solutions should not share significant parts with the inverse scramble sequence.
 - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
 - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
