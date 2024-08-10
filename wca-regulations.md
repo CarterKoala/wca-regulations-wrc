@@ -54,7 +54,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 1g1) A score taker is responsible for compiling results.
     - 1g2) Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.
 - 1h) Competitors in the same round of an event may compete as a single group or be divided into multiple groups.
-    - 1h1) Scramblers and judges for a round must not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. Exception: for 3x3x3 Multi-Blind and 3x3x3 Fewest Moves, scramblers and judges may scramble for/judge competitors in their own group after they have finished the current attempt.
+    - 1h1) Scramblers and judges for a round must not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. The following exceptions apply:
+        - 1h1a) For 3x3x3 Fewest Moves, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
+        - 1h1b) For 3x3x3 Multi-Blind, competitors may judge other competitors in their own group after they have finished their attempt.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
 
