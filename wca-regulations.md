@@ -375,6 +375,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
     - 12h3) Counter-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
 - 12i) Definition: A move is considered to be any change to the puzzle state in terms of the notation defined above, including misalignments beyond the limits described in [Regulation 10f](regulations:regulation:10f).
+    -12i1) Exception: For Clock, the only change in puzzle state considered to be a move is a wheel turning. Changes to the state of the pins are not considered to be moves.
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
