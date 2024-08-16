@@ -530,7 +530,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
 - E6) A competitor may join a 3x3x3 Fewest Moves attempt that is already in progress, at the discretion of the WCA Delegate. Exception: a competitor must not be permitted to join an ongoing attempt in the following cases:
     - E6a) A competitor has finished their attempt already (see [Guideline E2b+](guidelines:guideline:E2b+)).
-    - E6b) The attempt takes place in a competition with multiple physical locations (e.g. "3x3x3 Fewest Moves simultaneous competitions").
+    - E6b) The attempt takes place in a competition with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions").
     - E6c) There is any risk that information about the scramble may have become known to the competitor who wishes to join.
 
 
