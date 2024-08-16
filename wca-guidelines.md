@@ -209,7 +209,7 @@ To be more informative, each Guideline is classified using one of the following 
 - B2f+) [CLARIFICATION] Since the competitor starts the solve by lifting the cover, penalties for starting the timer and for touching the cover while starting the attempt do not apply (see [Regulation B2b](regulations:regulation:B2b) and [Regulation B2c](regulations:regulation:B2c)).
 - B4c+) [ADDITION] If the judge forgot to put a sight blocker, or places it in a way that the competitor's view of the puzzle is not fully blocked, the WCA Delegate should grant an extra attempt.
 - B4c++) [ADDITION] If the WCA Delegate does not suspect that the competitor intentionally violated any WCA Regulations, the original attempt may stand.
-- B5b1+) [CLARIFICATION] If the competitor does not fully release the puzzle or place their hands flat on the table, the  penalties from Regulation A6c](regulations:regulation:A6c) and Regulation A6e](regulations:regulation:A6e) still apply.
+- B5b1+) [CLARIFICATION] If the competitor does not fully release the puzzle or place their hands flat on the table, the  penalties from [Regulation A6c](regulations:regulation:A6c) and [Regulation A6e](regulations:regulation:A6e) still apply.
 
 
 ## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
