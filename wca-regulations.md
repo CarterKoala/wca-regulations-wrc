@@ -447,7 +447,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A7a) The judge tells the competitor the result.
         - A7a1) The judge should indicate to the competitor that the puzzle is solved, or that a penalty will be applied.
     - A7b) The judge records the result on a score sheet and signs next to the result to acknowledge that the result is correct, complete, properly formatted, and clearly readable.
-        - A7b1) If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "T + X = F", where T represents the time displayed on the timer (the "original recorded time"), X represents a sum of time penalties during the attempt, and F represents the final result (e.g. 17.65 + 4 = 21.65).
+        - A7b1) If time penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "T + X = F", where T represents the time displayed on the timer (the "original recorded time"), X represents a sum of time penalties during the attempt, and F represents the final result (e.g. 17.65 + 4 = 21.65).
         - A7b2) If a DNF is assigned, the judge records the original time displayed on the timer, as well as "DNF".
     - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
         - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
