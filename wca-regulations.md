@@ -42,7 +42,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 - 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
-    - 1c1) The WCA Delegate must ensure that the competition follows the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
@@ -223,7 +222,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
     - 7f4) Generation 5 Pro Timer must be used in 2-pad mode.
 - 7h) The competition area should have one or more Competitor Waiting Areas.
-    - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitor Waiting Area until the competitor has finished all attempts for the round.
     - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait at to be called to a solving station. 
 
 
@@ -392,7 +390,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise (e.g. the Stackmat timer malfunctioned, ran for over 10 minutes or was not used at all), the stopwatch time is the original recorded time.
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements (see [Regulation 2k6](regulations:regulation:2k6)).
 - A2) Scrambling:
-    - A2a) When called for a round, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits in their assigned Competitor Waiting Area until they are called to compete.
+    - A2a) When called for a round, the competitor submits the puzzle, in its solved state, to the scrambler. If a Competitor Waiting Area is in use the competitor then waits in their assigned Competitor Waiting Area until they are called to compete. If a Competitors Waiting Area in not in use the competitor then waits at their assigned solving station.
+        - A2a1) If a Competitor Waiting Area is in use the competitor must remain within within their assigned Competitor Waiting Area, except when called to perform an attempt, until they have completed all their attempts in the round, unless permission to leave has been granted by the WCA Delegate. Penalty: disqualification of any remaining attempts (DNF) at the discretion of the WCA Delegate. 
+        - A2a1) If a Competitor Waiting Area is not in use, the competitor must remain at their assigned solving station until they have completed all their attempts in the round, unless permission to leave has been granted by the WCA Delegate. Penalty: disqualification of any remaining attempts (DNF) at the discretion of the WCA Delegate.
+        - A2a3) Once called for a round, a competitor must not attempt to enter any area assigned for scrambling until all competitors in their group have no further attempts, unless permission has been granted by the WCA Delegate. 
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
         - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves from being applied before the start of the attempt. If these objects are used, the organization team should make an announcement before the round starts.
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
