@@ -334,6 +334,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11i3) For any result achieved on a puzzle deemed to be intentionally scrambled incorrectly, an extra attempt should be granted, at the discretion of the WCA Delegate.
     - 11i4) For all other cases, the result stands.
 
+
 ## <article-12><notation><notation> Article 12: Notation
 
 - 12a) Notation for NxNxN Cubes:
