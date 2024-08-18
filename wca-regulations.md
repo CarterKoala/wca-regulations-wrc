@@ -328,7 +328,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
 - 11g) The WCA Delegate must ensure that copies of the Regulations and Guidelines are available (e.g. printed, digital, or accessible via internet) to officials and competitors for consultation on any incidents.
 - 11h) A WCA Delegate may require competitors in serious violation of [Regulation 2k3](regulations:regulation:2k3) to leave the competition venue, taking into account the seriousness of the situation and the best possible course of action. If the competitor refuses to do so, they may face disciplinary action in the WCA.
-
+- 11i) If a competitor finds that their puzzle was not scrambled correctly after completing their solve in an event not listed as an exception in [Regulation 4g1](regulations:regulation:4g1), the following regulations apply:
+    - 11i1) For any result that is a regional record or personal record in the top 50 results of the world ranking, an extra attempt must be granted before the end of the competition to replace the affected attempt. If no extra attempt is granted, the attempt is disqualified (DNF).
+    - 11i2) For any result achieved by solving the puzzle in less moves than the limits in [Regulation 4b3](regulations:regulation:4b3), an extra attempt must be granted before the end of the competition to replace the affected attempt. If no extra attempt is granted, the attempt is disqualified (DNF).
+    - 11i3) For any result achieved on a puzzle deemed to be intentionally scrambled incorrectly, an extra attempt should be granted, at the discretion of the WCA Delegate.
+    - 11i4) For all other cases, the result stands.
 
 ## <article-12><notation><notation> Article 12: Notation
 
