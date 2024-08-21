@@ -335,6 +335,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 11i1c) The result was achieved by solving the puzzle in fewer moves than the limits defined in [Regulation 4b3](regulations:regulation:4b3).
         - 11i1d) Exception: For 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Megaminx, and 3x3x3 Multi-Blind, an extra attempt is not necessary to be granted under the circumstances described above.
     - 11i2) For all other cases, if the incorrect scramble was not significantly easier than the original scramble, the result may stand. Otherwise, an extra attempt must be granted, at the discretion of the WCA Delegate.
+- 11j) If a competitor incorrectly receives a scramble that they have already received (i.e. a duplicate scramble), the following regulations apply:
+    - 11j1) If the competitor believes they received a duplicate scramble in inspection, they should stop their attempt and call over a WCA Delegate without applying any moves to the puzzle. A competitor should not be penalized for incorrectly reporting a duplicate scramble.
+    - 11j2) If the error is noticed during the group, the WCA Delegate should make an attempt to give the competitor the correct scramble. An extra attempt may be given if the WCA Delegate is not certain what the correct scramble should be.
+    - 11j3) If the error is noticed during the competition but after the group, the missing attempt must be replaced with an extra attempt.
+    - 11j4) If the error is only noticed after the competition, the result will be considered DNS.
 
 
 ## <article-12><notation><notation> Article 12: Notation
