@@ -163,7 +163,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 11i+) [REMINDER] Scramblers must not intentionally scramble puzzles incorrectly.
 - 11i1+) [RECOMMENDATION] Competitors expected to meet these criteria should have their scrambles checked by a second scrambler before being sent out (see [Guideline 4g+](guidelines:guideline:4g+)).
 - 11i1b+) [CLARIFICATION] Only National, Continental, and World Championships that are marked as such on their competition websites are considered Championships.
-- 11i2+) [RECOMMENDATION] If the WCA Delegate is unsure whether or not the incorrect scramble is significantly easier than the original scramble, a provisional extra attempt should be provided.s
+- 11i2+) [RECOMMENDATION] If the WCA Delegate is unsure whether or not the incorrect scramble is significantly easier than the original scramble, a provisional extra attempt should be provided.
 - 11j3+) [REMINDER] The scramble sequence used for the extra attempt must not be obtained from a previous group.
 
 
