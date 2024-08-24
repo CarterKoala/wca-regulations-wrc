@@ -331,7 +331,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 11i) If it is found that a competitor's puzzle was not scrambled correctly after they have completed their solve, the following regulations apply:
     - 11i1) In the following cases, an extra attempt must be granted to replace the affected attempt. If no extra attempt is granted, the result will be considered DNS:
         - 11i1a) The result is a regional record or a personal record in the top 50 results of the world ranking.
-        - 11i1b) The result is achieved in a final round of a Championship.
+        - 11i1b) The result is achieved in a final round of a National Championship, Continental Championship or World Championship.
         - 11i1c) The result was achieved by solving the puzzle in fewer moves than the limits defined in [Regulation 4b3](regulations:regulation:4b3).
         - 11i1d) Exception: For 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Megaminx, and 3x3x3 Multi-Blind, an extra attempt is not necessary to be granted under the circumstances described above.
     - 11i2) For all other cases, if the incorrect scramble was not significantly easier than the original scramble, the result may stand. Otherwise, an extra attempt must be granted, at the discretion of the WCA Delegate.
