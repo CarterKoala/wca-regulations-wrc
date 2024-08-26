@@ -111,6 +111,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 5b5f+) [EXAMPLE] There is a [Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) available for [Regulation 5b5f](regulations:regulation:5b5f).
 - 5b5f++) [EXAMPLE] A 4x4x4 Cube edge "wing" twisted on its spot is considered solved.
 - 5b5f+++) [EXAMPLE] A corner affected by a corner twist is considered to be placed in a valid position, but such position does not render the piece solved.
+- 5b5f++++) [CLARIFICATION] If there are multiple pieces partially detached or not fully placed, their final position is assesed one at a time. The piece that is closest to a valid spot is considered to take such spot, so that it is not available to other pieces.
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
 
 
