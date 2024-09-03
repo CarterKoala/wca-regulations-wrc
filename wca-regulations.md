@@ -337,7 +337,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11i2) For all other cases, the result may stand. Exception: the WCA Delegate may grant an extra attempt at their discretion if they believe this provides a significantly fairer outcome (e.g. the incorrect scramble received was extremely easy and the competitor achieved a new personal record, the incorrect scramble impacted the podium for an event, or the puzzle was deliberately scrambled incorrectly).
 - 11j) If a competitor incorrectly receives a scramble that they have already received (i.e. a duplicate scramble), the following regulations apply:
     - 11j1) If the competitor believes they received a duplicate scramble in inspection, they should stop their attempt and call over a WCA Delegate without applying any moves to the puzzle. A competitor should not be penalized for incorrectly reporting a duplicate scramble genuinely, at the discretion of the WCA Delegate.
-    - 11j2) If the error is noticed during the group, the WCA Delegate should make an attempt to give the competitor the correct scramble. An extra attempt may be given if the WCA Delegate is not certain what the correct scramble should be.
+    - 11j2) If the error is noticed during the group, the WCA Delegate should make an effort to give the competitor the correct scramble. An extra attempt may be given if the WCA Delegate is not certain what the correct scramble should be.
     - 11j3) If the error is noticed during the competition but after the group, the missing attempt must be replaced with an extra attempt.
     - 11j4) If the error is only noticed after the competition, the result will be considered DNS.
 
