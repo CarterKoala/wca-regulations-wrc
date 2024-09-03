@@ -490,7 +490,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - B5a1) If a stopwatch is in use in addition to the Stackmat timer, the judge stops the stopwatch as soon as the competitor stops the solve.
     - B5b) When using a stopwatch as the only timer, the competitor stops the solve by releasing the puzzle and notifying the judge that they have stopped the solve. The judge stops the stopwatch as soon as the competitor does this.
         - B5b1) The competitor's default notification signal consists of releasing the puzzle(s) from their hands and placing their hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the start of the attempt.
-        - B5b2) If the judge is not immediately available when the competitor does this, the competitor may stop the stopwatch.
     - B5c) If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the solve. Penalty for touching the puzzle: disqualification of the attempt (DNF).
 
 
