@@ -231,7 +231,7 @@ To be more informative, each Guideline is classified using one of the following 
 - E2c3+) [CLARIFICATION] If a move is not clearly blacked out/scribbled out and it is not clear whether the move is part of the solution, the judge should consider it an ambiguous move sequence (see [Regulation E2c2](regulations:regulation:E2c2) and [Guideline E2c2+](guidelines:guideline:E2c2+)).
 - E2c4+) [EXAMPLE] Examples of interpreting symbols or combinations of symbols that are not defined in [Regulation 12a](regulations:regulation:12a): [x] should be interpret as x. (R * U', * = F2) should be interpreted as R U' F2. (R U)' should be interpreted as R U'. R++ should be interpreted as R. R3' is not permitted.
 - E2c4++) [ADDITION] Moves such as R2' should be interpreted as R2, whereas otherwise they would have resulted in a disqualification of the attempt (DNF).
-- E2c5+) [EXAMPLE] Y should be interpreted as y. UW, uw, and uW should be interpreted as Uw. r should be interpreted as R, not Rw.
+- E2c6+) [EXAMPLE] Y should be interpreted as y. UW, uw, and uW should be interpreted as Uw. r should be interpreted as R, not Rw.
 - E2c7+) [ADDITION] Competitors must not intentionally make their solution harder to judge by using external symbols, incorrect capitalization, or by any other means. Penalty: disqualification of the attempt (DNF) at the discretion of the WCA Delegate.
 - E2e+) [CLARIFICATION] Competitors must not derive solutions from any part of the scramble sequence, and solutions should not share significant parts with the inverse scramble sequence.
 - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
