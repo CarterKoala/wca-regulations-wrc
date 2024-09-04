@@ -85,7 +85,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 3k2b+) [CLARIFICATION] If a non-permitted puzzle is found during the course of a 3x3x3 Multi-Blind attempt, the puzzle must not be exchanged or removed from the attempt and must be counted as unsolved if the entire attempt is not disqualified.
 - 3k2b++) [EXAMPLE] Suppose the competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, the competitor is considered to have a result with 6 solved puzzles out of 10 (rather than DNF), at the discretion of the WCA Delegate.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
-- 3l++) [CLARIFICATION] In the past, puzzles with logos have been permitted for blindfolded events. Such puzzles are no longer permitted.
 - 3l1+) [CLARIFICATION] On NxNxN puzzles, a center piece is any piece with a single colored part. For example, the 5x5x5 Cube has 9 center pieces on each face.
 
 
@@ -203,7 +202,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
-- B1+) [REMINDER] The competitor must use a puzzle without logos (see [Regulation 3l](regulations:regulation:3l)), textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving.
+- B1+) [REMINDER] Other than any permitted logos (see [Regulation 3l](regulations:regulation:3l)), the competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving.
 - B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
 - B2d+) [ADDITION] By default, the competitor starts the solve the first time that they start the timer after the judge has indicated that they are ready (see [Regulation B2a](regulations:regulation:B2a)). If they want to check that the timer is in working order, they must (ask and) receive confirmation from the judge each time before starting/resetting the timer during this phase. Penalty for starting and resetting a timer without confirmation from the judge: disqualification of the attempt (DNF).
 - B2f+) [CLARIFICATION] Since the competitor starts the solve by lifting the cover, penalties for starting the timer and for touching the cover while starting the attempt do not apply (see [Regulation B2b](regulations:regulation:B2b) and [Regulation B2c](regulations:regulation:B2c)).
