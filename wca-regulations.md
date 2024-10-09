@@ -327,7 +327,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11e3) If it is unclear whether an incident should result in an extra attempt, the competitor may be granted a provisional extra attempt that will be used only if it is later found that an extra attempt was appropriate (e.g. by a decision of the WRC).
 - 11f) Decisions about an incident may be supported with video, photographic, or audio evidence, at the discretion of the WCA Delegate.
     - 11f1) Video, and similar forms of recorded evidence, should usually be reviewed at full speed. Slow-motion or frame-by-frame analysis may only be used in the following circumstances:
-        - 11f1a) The individual result is a regional record or a personal record in the top 50 results of the world ranking.
+        - 11f1a) The individual result is a regional record or a personal record in the top 50 results of the world rankings.
         - 11f1b) The average or mean the result is a part of is a regional record or a personal record in the top 50 results of the world rankings.
         - 11f1c) The result is achieved in a final round of a National Championship, Continental Championship or World Championship.
     - 11f2) Evidence obtained from slow-motion or frame-by-frame analysis may only be used to support the following decisions:
