@@ -129,7 +129,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 9f2+) [ADDITION] For 3x3x3 Multi-Blind, the judge should record the number of puzzles solved, the number of puzzles attempted, and the final time. For example, if the competitor solves 3 cubes out of 5 attempted cubes in 40 minutes and 30 seconds, the judge should write down 3/5 40:30.
 - 9f4+) [CLARIFICATION] The result of an attempt should be a DNF if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
 - 9f5+) [CLARIFICATION] The result of an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
-- 9l1+) [CLARIFICATION] A DNF Result is considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after the round is complete (see [Regulation 3k2a](regulations:regulation:3k2a)).
+- 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after the round is complete (see [Regulation 3k2a](regulations:regulation:3k2a)).
 - 9l1++) [EXAMPLE] Examples of an invalid attempt: an attempt that was misscrambled, attempts where the results are no longer retrievable (e.g. a missing scorecard).
 - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
