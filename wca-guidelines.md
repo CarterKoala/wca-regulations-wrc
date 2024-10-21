@@ -162,6 +162,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 11e2++) [EXAMPLE] Suppose a competitor has 5 regularly numbered attempts, and #2 leads to extra attempts. The competitor should do extra attempts until there is a valid extra attempt to replace #2. Suppose later another attempt leads to extra attempts, the competitor should proceed in a similar way as for #2.
 - 11i1+) [RECOMMENDATION] Competitors expected to meet these criteria should have their scrambles checked by a second scrambler before being sent out (see [Guideline 4g+](guidelines:guideline:4g+)).
 - 11i2+) [RECOMMENDATION] If the WCA Delegate is unsure whether or not the incorrect scramble is significantly easier than the original scramble, a provisional extra attempt should be granted.
+- 11i2++) [REMINDER] Although individual results achieved on incorrectly scrambled puzzles may be allowed to stand, the WCA Delegate must ensure that incorrect scrambles do not become common.
 - 11j3+) [REMINDER] The scramble sequence used for the extra attempt must not be obtained from a previous group.
 
 
